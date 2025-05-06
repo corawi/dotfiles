@@ -37,9 +37,9 @@
       "commands": ["workbench.action.focusRightGroup"]
     },
     // NICE TO HAVE
-    { "before": ["leader", "w"], "commands": [":w!"] },
-    { "before": ["leader", "q"], "commands": [":q!"] },
-    { "before": ["leader", "x"], "commands": [":x!"] },
+    { "before": ["leader", "w"], "commands": [":w"] },
+    { "before": ["leader", "q"], "commands": [":q"] },
+    { "before": ["leader", "x"], "commands": [":x"] },
     {
       "before": ["[", "d"],
       "commands": ["editor.action.marker.prev"]
