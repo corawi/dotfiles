@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:10
+gamma:0.5
 graphicsMode:1
 guiScale:0
 maxFps:120
@@ -40,7 +40,7 @@ realmsNotifications:true
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-bobView:true
+bobView:false
 toggleCrouch:false
 toggleSprint:true
 darkMojangStudiosBackground:false
@@ -125,9 +125,9 @@ key_key.hotbar.7:key.keyboard.r
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.mouse.4
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
-soundCategory_weather:1.0
+soundCategory_weather:0.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
