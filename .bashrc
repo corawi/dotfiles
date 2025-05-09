@@ -10,6 +10,6 @@ alias grep='grep --color=auto'
 PS1='[\u@\h \W]\$ '
 
 
-export PATH=$PATH:~/bin
+export PATH=$HOME/bin:$PATH
 export PATH=$PATH:/home/colin/.spicetify
 export RANGER_LOAD_DEFAULT_RC=FALS=FALSE
