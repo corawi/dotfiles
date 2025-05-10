@@ -13,5 +13,4 @@ PS1='[\u@\h \W]\$ '
 export PATH=$HOME/bin:$PATH
 export PATH=$PATH:/home/colin/.spicetify
 export RANGER_LOAD_DEFAULT_RC=FALSE
-
 export PATH=$PATH:/home/cw/.spicetify
