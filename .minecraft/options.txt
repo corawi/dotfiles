@@ -6,17 +6,17 @@ entityDistanceScaling:1.0
 entityShadows:false
 forceUnicodeFont:false
 japaneseGlyphVariants:false
-fov:0.0
+fov:0.425
 fovEffectScale:0.0
 darknessEffectScale:1.0
 glintSpeed:0.0
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:0.5
+gamma:1.0
 graphicsMode:0
 guiScale:3
-maxFps:120
+maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
@@ -51,9 +51,9 @@ damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Swight Pack V2 1.21.4","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/Unobstructed.zip","file/Fullbright-UB-1.21.zip"]
-incompatibleResourcePacks:["file/Swight Pack V2 1.21.4","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/Fullbright-UB-1.21.zip"]
-lastServer:gommehd.net
+resourcePacks:["vanilla","file/Swight Pack V2 1.21.4","file/§6Old§r §dEnchant§r §5Glint§r.zip"]
+incompatibleResourcePacks:["file/Swight Pack V2 1.21.4","file/§6Old§r §dEnchant§r §5Glint§r.zip"]
+lastServer:blockmania.com
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
