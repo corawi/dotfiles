@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.0
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:true
+fullscreen:false
 gamma:1.0
 graphicsMode:0
 guiScale:3
@@ -20,11 +20,11 @@ maxFps:260
 inactivityFpsLimit:"afk"
 mipmapLevels:4
 narrator:0
-particles:0
+particles:2
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:12
-simulationDistance:12
+renderDistance:16
+simulationDistance:16
 screenEffectScale:0.0
 soundDevice:""
 autoJump:false
@@ -46,14 +46,14 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.5
+mouseSensitivity:0.5038768482048955
 damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Swight Pack V2 1.21.4","file/§6Old§r §dEnchant§r §5Glint§r.zip"]
-incompatibleResourcePacks:["file/Swight Pack V2 1.21.4","file/§6Old§r §dEnchant§r §5Glint§r.zip"]
-lastServer:blockmania.com
+resourcePacks:["vanilla","file/swightv2","file/§aBetter Minecraft §f§lv1.0.0.zip","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/antirod.zip","file/Unobstructed.zip","file/Fullbright-UB-1.21.zip","file/Clear_water_and_lava_by_WhiterM 1.20.5 v.1.0.zip"]
+incompatibleResourcePacks:["file/swightv2","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/antirod.zip","file/Fullbright-UB-1.21.zip","file/Clear_water_and_lava_by_WhiterM 1.20.5 v.1.0.zip"]
+lastServer:gommehd.net
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -107,7 +107,7 @@ key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
 key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.f5
+key_key.togglePerspective:key.keyboard.g
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
@@ -125,7 +125,7 @@ key_key.hotbar.7:key.keyboard.r
 key_key.hotbar.8:key.keyboard.x
 key_key.hotbar.9:key.mouse.4
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:0.14889777906089544
 soundCategory_record:1.0
 soundCategory_weather:0.0
 soundCategory_block:1.0
