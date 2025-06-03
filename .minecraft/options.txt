@@ -13,7 +13,6 @@ glintSpeed:0.0
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:1.0
 graphicsMode:0
 guiScale:3
 maxFps:260
@@ -42,18 +41,18 @@ directionalAudio:false
 touchscreen:false
 bobView:false
 toggleCrouch:false
-toggleSprint:false
+toggleSprint:true
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 hideSplashTexts:false
-mouseSensitivity:0.5038768482048955
+mouseSensitivity:0.32991359577671
 damageTiltStrength:0.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/swightv2","file/§aBetter Minecraft §f§lv1.0.0.zip","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/antirod.zip","file/Unobstructed.zip","file/Fullbright-UB-1.21.zip","file/Clear_water_and_lava_by_WhiterM 1.20.5 v.1.0.zip"]
-incompatibleResourcePacks:["file/swightv2","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/antirod.zip","file/Fullbright-UB-1.21.zip","file/Clear_water_and_lava_by_WhiterM 1.20.5 v.1.0.zip"]
-lastServer:gommehd.net
+resourcePacks:["vanilla","file/swightv2","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/Unobstructed.zip","file/antirod.zip","file/Clearer water 1.21.4.zip","fabric","file/fullbright.zip"]
+incompatibleResourcePacks:["file/swightv2","file/§6Old§r §dEnchant§r §5Glint§r.zip","file/antirod.zip","file/Clearer water 1.21.4.zip","appleskin","clearwater","yet_another_config_lib_v3"]
+lastServer:timolia.de
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -61,7 +60,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -98,7 +97,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.mouse.5
+key_key.sprint:key.keyboard.right.alt
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.enter
@@ -107,23 +106,31 @@ key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
 key_key.screenshot:key.keyboard.f2
-key_key.togglePerspective:key.keyboard.g
+key_key.togglePerspective:key.keyboard.f
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
-key_key.swapOffhand:key.keyboard.f
+key_key.swapOffhand:key.keyboard.g
 key_key.saveToolbarActivator:key.keyboard.delete
 key_key.loadToolbarActivator:key.keyboard.delete
 key_key.advancements:key.keyboard.l
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
-key_key.hotbar.3:key.keyboard.3
+key_key.hotbar.3:key.mouse.5
 key_key.hotbar.4:key.keyboard.4
 key_key.hotbar.5:key.keyboard.c
 key_key.hotbar.6:key.keyboard.v
 key_key.hotbar.7:key.keyboard.r
 key_key.hotbar.8:key.keyboard.x
 key_key.hotbar.9:key.mouse.4
+key_bettershields.toggleSounds:key.keyboard.unknown
+key_key.fullbright.toggle:key.keyboard.b
+key_key.modmenu.open_menu:key.keyboard.unknown
+key_armorhud.keybind.toggle:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.k
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.14889777906089544
 soundCategory_record:1.0
