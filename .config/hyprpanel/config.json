@@ -218,7 +218,7 @@
   "menus.dashboard.shortcuts.left.shortcut1.command": "brave",
   "menus.dashboard.shortcuts.left.shortcut1.icon": "",
   "bar.launcher.icon": "",
-  "menus.dashboard.powermenu.avatar.image": "/home/colin/Downloads/amon.jpg",
+  "menus.dashboard.powermenu.avatar.image": "/home/cw/.wallpapers/amon.jpg",
   "menus.dashboard.stats.enable_gpu": false,
   "menus.dashboard.shortcuts.left.shortcut1.tooltip": "Brave",
   "menus.dashboard.shortcuts.left.shortcut4.command": "wofi --show drun",
